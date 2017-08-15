@@ -3,6 +3,8 @@ RelEvent [![Codacy Badge](https://api.codacy.com/project/badge/Grade/464039e29eb
 ### Description
 Social Android App that allow users to create and manage events organization. <br>
 
+[...](https://herklos.github.io/Relevent)
+
 ### Technologies
 Backend : PHP ([Laravel Framework](https://laravel.com))<br>
 AndroidAPP : Java ([Android](https://developer.android.com))<br>
