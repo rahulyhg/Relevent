@@ -15,9 +15,9 @@ Versions
 Global version : 0.1.0.3
 
 ### Modules
-[Backend](https://github.com/Herklos/Relevent/tree/master/backend) : 0.7.0 <br>
-[AndroidAPP](https://github.com/Herklos/Relevent/tree/master/android) : 0.2.1 <br>
-[Frontend](https://github.com/Herklos/Relevent/tree/master/frontend) : 0.0.2 <br>
+[Backend](https://github.com/Herklos/Relevent/tree/master/backend#relevent---backend----) : 0.7.0 <br>
+[AndroidAPP](https://github.com/Herklos/Relevent/tree/master/android#relevent---android-app--) : 0.2.1 <br>
+[Frontend](https://github.com/Herklos/Relevent/tree/master/frontend#relevent---frontend--) : 0.0.2 <br>
 
 ### Changelog
 
