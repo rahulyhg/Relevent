@@ -1,7 +1,7 @@
 Relevent - Frontend [![Codacy Badge](https://api.codacy.com/project/badge/Grade/464039e29eb04025aa5495982e0f0165)](https://www.codacy.com/app/paul.bouquet/ProjetX?utm_source=github.com&utm_medium=referral&utm_content=Herklos/ProjetX&utm_campaign=badger)
 ============================
 ### Description
-... <br>
+Social website that allow users to create and manage events organization.  <br>
 
 ### Technologies
 Frontend : Javascript ([ReactJS](https://facebook.github.io/react/))<br>
