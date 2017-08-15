@@ -1,4 +1,4 @@
-Relevent - Android APP [![Codacy Badge](https://api.codacy.com/project/badge/Grade/464039e29eb04025aa5495982e0f0165)](https://www.codacy.com/app/paul.bouquet/ProjetX?utm_source=github.com&utm_medium=referral&utm_content=Herklos/ProjetX&utm_campaign=badger)
+Relevent - Android APP [![Codacy Badge](https://api.codacy.com/project/badge/Grade/464039e29eb04025aa5495982e0f0165)](https://www.codacy.com/app/paul.bouquet/ProjetX?utm_source=github.com&utm_medium=referral&utm_content=Herklos/ProjetX&utm_campaign=badger) [![Dependency Status](https://www.versioneye.com/user/projects/599362ac0fb24f15c6a4f7c9/badge.svg?style=flat-square)](https://www.versioneye.com/user/projects/599362ac0fb24f15c6a4f7c9)
 ============================
 ### Description
 Social Android App that allow users to create and manage events organization.  <br>
