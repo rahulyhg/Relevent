@@ -53,7 +53,7 @@ export default class LoginComponent extends Component {
 				relaxed
 			>
 				<Helmet>
-					<title>React-Semantic.UI-Starter: Login</title>
+					<title>Relevent: Login</title>
 				</Helmet>
 				<Grid.Row>
 					<Grid.Column tablet={10} mobile={16} computer={6}>
@@ -83,6 +83,7 @@ export default class LoginComponent extends Component {
 								<LoginButton {...loginBtnProps} />
 							</TextCenter>
 						</Form>
+						New here ? <a href="/register">register</a>
 					</Grid.Column>
 				</Grid.Row>
 			</Grid>

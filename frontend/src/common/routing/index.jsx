@@ -1,5 +1,5 @@
 import {Route} from 'react-router-dom'
-import {Users, Dashboard, Login} from 'containers'
+import {Users, Dashboard, Login, Register, Events} from 'containers'
 import RouteAuth from 'components/addons/RouteAuth'
 import {createBrowserHistory, createMemoryHistory} from 'history'
 
@@ -38,11 +38,13 @@ export const routes = [
 		component: Users
 	},
 	{
-		external: true,
-		path: 'https://github.com/Metnew/react-semantic.ui-starter',
-		icon: 'github',
-		name: 'Github',
-		sidebarVisible: true
+		path: '/events',
+		name: 'Events',
+		exact: true,
+		icon: 'calendar',
+		sidebarVisible: true,
+		tag: RouteAuth,
+		component: Users
 	},
 	{
 		path: '/auth',
@@ -51,7 +53,13 @@ export const routes = [
 		component: Login
 	},
 	{
-		path: '/users/:id',
+		path: '/register',
+		name: 'Register',
+		tag: Route,
+		component: Register
+	},
+	{
+		path: '/user/:id',
 		name: 'User',
 		lazy: true,
 		exact: true,

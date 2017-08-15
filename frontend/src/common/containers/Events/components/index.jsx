@@ -1,6 +1,6 @@
 import React, {PureComponent} from 'react'
 import PropTypes from 'prop-types'
-import {Item, Grid} from 'semantic-ui-react'
+import {Card, Grid} from 'semantic-ui-react'
 import _ from 'lodash'
 import UsersItemComponent from './UsersItemComponent'
 
@@ -28,11 +28,11 @@ export default class UsersComponent extends PureComponent {
 				<Grid.Column width={16}>
 					{noUsers
 						? 'Hm, it looks like there are no items to show you :('
-						: <Item.Group divided link>
+						: <Card.Group itemsPerRow={3} doubling stackable>
 							{_.map(users, (obj, i) => {
 								return <UsersItemComponent key={i} {...obj} />
 							})}
-						</Item.Group>}
+						</Card.Group>}
 				</Grid.Column>
 			</Grid>
 		)
