@@ -35,7 +35,10 @@ Code Quality : [Codacy](https://www.codacy.com/app/paul.bouquet/ProjetX)<br>
 
 Testing
 ------------
-See modules README
+See modules README :
+[Backend](https://github.com/Herklos/Relevent/tree/master/backend#testing)<br>
+[AndroidAPP](https://github.com/Herklos/Relevent/tree/master/android#testing)<br>
+[Frontend](https://github.com/Herklos/Relevent/tree/master/frontend#testing)<br>
 
 Contact
 ------------
