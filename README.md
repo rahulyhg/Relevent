@@ -29,7 +29,7 @@ Current sprint  : [1.0.3](https://zube.io/herklos/projectx/w/workspace-1/sprintb
 
 
 ### Issues
-Known bugs  :<br>
+Known bugs  : [CodeTree](https://codetree.com/projects/26fg/issues)<br>
 
 Code Quality : [Codacy](https://www.codacy.com/app/paul.bouquet/ProjetX)<br>
 
