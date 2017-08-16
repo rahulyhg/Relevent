@@ -12,7 +12,6 @@ class EventTest extends TestCase
     private $test_event_description = 'description test';
     private $test_event_address = '3 trybol';
     private $test_event_result;
-    private $test_event_id;
     private $test_event_data;
     private $event;
 
