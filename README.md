@@ -6,9 +6,9 @@ Social Android App that allow users to create and manage events organization. <b
 [...](https://herklos.github.io/Relevent)
 
 ### Technologies
-Backend : PHP ([Laravel Framework](https://laravel.com))<br>
-AndroidAPP : Java ([Android](https://developer.android.com))<br>
-Frontend : Javascript ([ReactJS](https://facebook.github.io/react/))<br>
+Backend : PHP powered by [Laravel Framework](https://laravel.com)<br>
+AndroidAPP : Java powered by [Android](https://developer.android.com)<br>
+Frontend : Javascript powered by [ReactJS](https://facebook.github.io/react/)<br>
 
 Versions
 ------------
