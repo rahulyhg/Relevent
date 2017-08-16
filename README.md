@@ -1,9 +1,7 @@
-RelEvent
+[RelEvent](https://herklos.github.io/Relevent)
 ============================
 ### Description
 Social Android App that allow users to create and manage events organization. <br>
-
-[...](https://herklos.github.io/Relevent)
 
 ### Technologies
 Backend : PHP powered by [Laravel Framework](https://laravel.com)<br>
