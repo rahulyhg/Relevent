@@ -1,4 +1,4 @@
-[RelEvent](https://herklos.github.io/Relevent)
+[Relevent](https://herklos.github.io/Relevent)
 ============================
 ### Description
 Social Android App that allow users to create and manage events organization. <br>
