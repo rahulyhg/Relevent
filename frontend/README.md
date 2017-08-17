@@ -6,7 +6,7 @@ Social website that allow users to create and manage events organization.  <br>
 ### Technologies
 Frontend : Javascript powered by [ReactJS](https://facebook.github.io/react/)<br>
 
-Versions 0.0.2
+Versions 0.1.2
 ------------
 ### Changelog
 
