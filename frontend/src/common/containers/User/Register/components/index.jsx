@@ -41,7 +41,12 @@ export default class RegisterComponent extends Component {
 		// register btn props
 		const registerBtnProps = {
 			content: 'Register',
-			icon: 'signup'
+			icon: 'checkmark'
+		}
+
+		const loginBtnProps = {
+			content: 'Login',
+			icon: 'unlock'
 		}
 
 		return (
@@ -67,9 +72,9 @@ export default class RegisterComponent extends Component {
 							<Form.Group unstackable widths={2}>
 								<Form.Input
 									placeholder="Nickname"
+									type="text"
 									name="nickname"
 									label="Username"
-									value={username}
 									onChange={::this.handleChange}
 								/>
 								<Form.Input
@@ -77,7 +82,6 @@ export default class RegisterComponent extends Component {
 									type="mail"
 									name="mail"
 									label="Mail"
-									value={mail}
 									onChange={::this.handleChange}
 								/>
 							</Form.Group>
@@ -87,7 +91,6 @@ export default class RegisterComponent extends Component {
 									type="password"
 									name="password"
 									label="Password"
-									value={password}
 									onChange={::this.handleChange}
 								/>
 								<Form.Input
@@ -95,7 +98,6 @@ export default class RegisterComponent extends Component {
 									type="password"
 									name="password-confirm"
 									label="Password"
-									value={passwordConfirm}
 									onChange={::this.handleChange}
 								/>
 							</Form.Group>

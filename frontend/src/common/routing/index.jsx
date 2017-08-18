@@ -68,7 +68,7 @@ export const routes = [
 		path: '/user',
 		name: 'Profile',
 		exact: true,
-		icon: 'user',
+		icon: 'user circle',
 		sidebarVisible: true,
 		tag: RouteAuth,
 		component: ''
