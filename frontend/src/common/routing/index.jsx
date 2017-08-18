@@ -29,13 +29,13 @@ export const routes = [
 		component: Dashboard
 	},
 	{
-		path: '/users',
-		name: 'Users',
+		path: '/alerts',
+		name: 'Notifications',
 		exact: true,
-		icon: 'users',
+		icon: 'bell',
 		sidebarVisible: true,
 		tag: RouteAuth,
-		component: Users
+		component: ''
 	},
 	{
 		path: '/events',
@@ -44,7 +44,43 @@ export const routes = [
 		icon: 'calendar',
 		sidebarVisible: true,
 		tag: RouteAuth,
+		component: Events
+	},
+	{
+		path: '/search',
+		name: 'Search',
+		exact: true,
+		icon: 'marker',
+		sidebarVisible: true,
+		tag: RouteAuth,
+		component: ''
+	},
+	{
+		path: '/users',
+		name: 'Users',
+		exact: true,
+		icon: 'comments',
+		sidebarVisible: true,
+		tag: RouteAuth,
 		component: Users
+	},
+	{
+		path: '/user',
+		name: 'Profile',
+		exact: true,
+		icon: 'user',
+		sidebarVisible: true,
+		tag: RouteAuth,
+		component: ''
+	},
+	{
+		path: '/settings',
+		name: 'Settings',
+		exact: true,
+		icon: 'settings',
+		sidebarVisible: true,
+		tag: RouteAuth,
+		component: ''
 	},
 	{
 		path: '/auth',

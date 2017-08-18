@@ -21,7 +21,7 @@ export default class UsersItemComponent extends Component {
 
 		return (
 			<Card raised>
-				<Image alt="Dummy image" src={require('images/dummy.png')} />
+				<Image alt="Dummy image" src={require('static/images/logo.jpg')} />
 				<Card.Content>
 					<Card.Header>
 						{`${name} "${username}"`}
@@ -38,7 +38,7 @@ export default class UsersItemComponent extends Component {
 				<Card.Content extra>
 					<div className="ui buttons">
 						<Button basic color="green">
-							Send message
+							View more
 						</Button>
 					</div>
 				</Card.Content>

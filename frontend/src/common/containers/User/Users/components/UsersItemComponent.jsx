@@ -21,7 +21,7 @@ export default class UsersItemComponent extends Component {
 
 		return (
 			<Card raised>
-				<Image alt="Dummy image" src={require('images/dummy.png')} />
+				<Image alt="Dummy image" src={require('static/images/daniel.jpg')} />
 				<Card.Content>
 					<Card.Header>
 						{`${name} "${username}"`}
