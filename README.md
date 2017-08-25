@@ -1,9 +1,7 @@
-RelEvent [![Codacy Badge](https://api.codacy.com/project/badge/Grade/464039e29eb04025aa5495982e0f0165)](https://www.codacy.com/app/paul.bouquet/Relevent?utm_source=github.com&utm_medium=referral&utm_content=Herklos/Relevent&utm_campaign=badger)
+[Relevent](https://herklos.github.io/Relevent)
 ============================
 ### Description
 Social Android App that allow users to create and manage events organization. <br>
-
-[...](https://herklos.github.io/Relevent)
 
 ### Technologies
 Backend : PHP powered by [Laravel Framework](https://laravel.com)<br>
@@ -17,7 +15,7 @@ Global version : 0.1.0.3
 ### Modules
 [Backend](https://github.com/Herklos/Relevent/tree/dev-backend/backend#relevent---backend----) : 0.7.0 <br>
 [AndroidAPP](https://github.com/Herklos/Relevent/tree/dev-android/android#relevent---android-app--) : 0.2.1 <br>
-[Frontend](https://github.com/Herklos/Relevent/tree/dev-frontend/frontend#relevent---frontend--) : 0.0.2 <br>
+[Frontend](https://github.com/Herklos/Relevent/tree/dev-frontend/frontend#relevent---frontend--) : 0.1.2 <br>
 
 ### Changelog
 
