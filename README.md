@@ -25,7 +25,7 @@ Agility
 ------------
 
 ### Sprint
-Current sprint  : [1.0.3](https://zube.io/herklos/relevent/w/workspace-1/kanban)<br>
+Current sprint  : [1.0.4](https://zube.io/herklos/relevent/w/relevent-workspace/kanban)<br>
 
 
 ### Issues
