@@ -38,6 +38,10 @@ See modules README : <br>
 [AndroidAPP](https://github.com/Herklos/Relevent/tree/dev-android/android#testing)<br>
 [Frontend](https://github.com/Herklos/Relevent/tree/dev-frontend/frontend#testing)<br>
 
+Contribution
+------------
+Thank you for contributing ! see [contribution](https://github.com/Herklos/Relevent/blob/dev/CONTRIBUTING.md). <br>
+
 Contact
 ------------
-projetxapp@gmail.com
+support@relevent.org (future)
