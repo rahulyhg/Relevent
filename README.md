@@ -3,6 +3,8 @@
 ### Description
 Social Android App that allow users to create and manage events organization. <br>
 
+More [here](https://github.com/Herklos/Relevent/wiki)
+
 ### Technologies
 Backend : PHP powered by [Laravel Framework](https://laravel.com)<br>
 AndroidAPP : Java powered by [Android](https://developer.android.com)<br>
