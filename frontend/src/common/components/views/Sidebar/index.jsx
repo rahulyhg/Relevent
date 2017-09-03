@@ -66,7 +66,7 @@ export default class SidebarComponent extends Component {
 		// 	? require('images/logo.png')
 		// 	: require('images/logo.png').preSrc
 		//
-		const logoImg = require('images/logo-menu.png')
+		const logoImg = require('images/relevent-icon.png')
 
 		return (
 			<StyledSidebar {...sidebarProps}>
